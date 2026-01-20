@@ -8,3 +8,16 @@ It should be able to log to a Dear IMGUI debug console
 It should also log its output to a file.
 
 For the submission, make a branch of this repo and submit a new GitHub URL
+
+# Approach
+
+I looked throught the imgui documentaion and also looking at the c++ documentation as it has been ages since I have used it. First I tried following the imgui code snippets on github to try and make something work in with in the demo after which I had a better sense of how work with the system.
+
+# OS
+Windows
+
+# TOOLS
+
+vscode
+cmake 
+imgui
