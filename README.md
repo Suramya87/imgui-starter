@@ -13,6 +13,8 @@ For the submission, make a branch of this repo and submit a new GitHub URL
 
 I looked throught the imgui documentaion and also looking at the c++ documentation as it has been ages since I have used it. First I tried following the imgui code snippets on github to try and make something work in with in the demo after which I had a better sense of how work with the system.
 
+# Things i learned about cmake
+Dont push your build folders it ends very badly and for some reasson the git ignore does not ignore it go check that out
 # OS
 Windows
 
