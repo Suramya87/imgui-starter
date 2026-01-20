@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\demo.dir\\Application.cpp.obj",
+            "outputs": [
+                "C:\\Users\\suram\\Desktop\\Cmpm_123\\Cmpm123\\imgui-starter\\build\\vc140.pdb",
+                "CMakeFiles\\demo.dir\\Application.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

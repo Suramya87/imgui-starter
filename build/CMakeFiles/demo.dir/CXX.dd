@@ -1,0 +1,21 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\demo.dir\Application.cpp.obj: dyndep
+
+build CMakeFiles\demo.dir\imgui\imgui_demo.cpp.obj: dyndep
+
+build CMakeFiles\demo.dir\imgui\imgui_draw.cpp.obj: dyndep
+
+build CMakeFiles\demo.dir\imgui\imgui_tables.cpp.obj: dyndep
+
+build CMakeFiles\demo.dir\imgui\imgui_widgets.cpp.obj: dyndep
+
+build CMakeFiles\demo.dir\imgui\imgui.cpp.obj: dyndep
+
+build CMakeFiles\demo.dir\Logger.cpp.obj: dyndep
+
+build CMakeFiles\demo.dir\imgui\imgui_impl_dx11.cpp.obj: dyndep
+
+build CMakeFiles\demo.dir\main_win32.cpp.obj: dyndep
+
+build CMakeFiles\demo.dir\imgui\imgui_impl_win32.cpp.obj: dyndep
+

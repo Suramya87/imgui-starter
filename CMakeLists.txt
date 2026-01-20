@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5.0)
+cmake_minimum_required(VERSION 4.2.1)
 project(tictactoe VERSION 0.1.0 LANGUAGES C CXX)
 
 # check for macOS
@@ -53,6 +53,7 @@ add_executable(demo Application.cpp
                           imgui/imgui_tables.cpp
                           imgui/imgui_widgets.cpp
                           imgui/imgui.cpp
+                          Logger.cpp
  
                           ${BCKD_FILE}
                           ${MAIN_FILE}
