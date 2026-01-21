@@ -55,6 +55,12 @@ namespace ClassGame {
         ImGui::SameLine();
         if (ImGui::Button("Log Error"))
             logger.Log(LogLevel::ERROR, "GAME", "Game state corrupted");
+        // ImGui::SameLine();
+        // ImGui::TextColored(
+        //     isFileLogging ? ImVec4(0,1,0,1) : ImVec4(1,0,0,1),
+        //     isFileLogging ? "Recording" : "Not Recording"
+        // );
+
         ImGui::End();
         }
 

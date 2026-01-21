@@ -11,10 +11,10 @@ For the submission, make a branch of this repo and submit a new GitHub URL
 
 # Approach
 
-I looked throught the imgui documentaion and also looking at the c++ documentation as it has been ages since I have used it. First I tried following the imgui code snippets on github to try and make something work in with in the demo after which I had a better sense of how work with the system.
+I looked throught the imgui documentaion and also looking at the c++ documentation as it has been ages since I have used it. First I tried following the imgui code snippets on github to try and make something work in with in the demo after which I had a better sense of how work with the system. I have the console to have three buttons for now to test and have the ability to have it log on the console and into a file after finding out how to do so using imgui. As for logging the console into a text file I wanted to have a point where it starts and stops recording so now there is a button that you hit and anything that will appear on the console will be logged and when you hit it again will then output whatever was sent in in the console in the game log file.
 
 # Things i learned about cmake
-Dont push your build folders it ends very badly and for some reasson the git ignore does not ignore it go check that out
+Dont push your build folders it ends very badly and for some reason the git ignore does not ignore it go check that out
 # OS
 Windows
 
